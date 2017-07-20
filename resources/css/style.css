@@ -1,0 +1,40 @@
+* {
+  background-color: black;
+  color: white;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h3 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#caption {
+  font-size: 21px;
+  color: gray;
+}
+
+#comingSoon {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#legal {
+  color: gray;
+  font-size: 20px;
+}
+
+.footer {
+  text-align: right;
+}
