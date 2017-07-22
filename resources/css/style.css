@@ -35,6 +35,13 @@ h3 {
   font-size: 20px;
 }
 
+.body {
+  background-image: url("#");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 .footer {
-  text-align: right;
+  float: right;
 }
